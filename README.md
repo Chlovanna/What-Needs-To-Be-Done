@@ -6,4 +6,4 @@ Work Day Planner
 
 Website https://chlovanna.github.io/What-Needs-To-Be-Done/
 
-![image](https://user-images.githubusercontent.com/97860472/156850402-c992a097-0c2b-410f-9b83-d590d4a93a40.png)
+![image](https://user-images.githubusercontent.com/97860472/156850892-a4059106-49e2-4460-91f2-80dbba9e1600.png)
