@@ -11,7 +11,7 @@ $(document).ready(function () {
     localStorage.setItem(time, text);
   });
 
-  // to load LocalStorage data for twelve hours (workhours) 24 hr - 12 hr conversion.
+  // to load LocalStorage data for eighteen hours (workhours) 24 hr - 12 hr conversion.
   $("#hour6 .description").val(localStorage.getItem("hour6"));
   $("#hour7 .description").val(localStorage.getItem("hour7"));
   $("#hour8 .description").val(localStorage.getItem("hour8"));
@@ -27,7 +27,7 @@ $(document).ready(function () {
   $("#hour18 .description").val(localStorage.getItem("hour18"));
 
   function timeTracker() {
-    //the current number of hours.
+    //declare currenHour.
     var currentHour = moment().hour(); 
 
     // toloop over time blocks
@@ -50,7 +50,7 @@ $(document).ready(function () {
       }
     });
   }
-  timeTracker();
+  timeTracker(); //call timeTracker
 });
 
 // GIVEN I am using a daily planner to create a schedule
