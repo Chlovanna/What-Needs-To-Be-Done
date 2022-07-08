@@ -1,6 +1,15 @@
 # What-Needs-To-Be-Done
 Work Day Planner
 
+## Table of Contents
+ - [User Story](#user-story)
+ - [Acceptance Criteria](#acceptance-criteria)
+ - [Deployment](#deployment)
+ - [Demo](#demo)
+ - [Technologies](#technologies)
+ - [License](#license)
+ - [Contributors](#contributors)
+
 # User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -31,6 +40,9 @@ Website https://chlovanna.github.io/What-Needs-To-Be-Done/
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 - ![CSS5](https://img.shields.io/badge/-CSS5-1572B6?style=plastic&logo=css5&logoColor=white)
+
+# License
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Contributors
 Ashley Lawrence
